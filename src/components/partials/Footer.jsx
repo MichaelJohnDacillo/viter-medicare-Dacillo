@@ -55,7 +55,7 @@ const Footer = () => {
               <p className="text-gray-300 mt-2">Sunday: Emergency only</p>
             </div>
           </div>
-          <div className="p-3 text-gray-200 text-center border-t border-blue-900">
+          <div className="py-10 text-gray-200 text-center border-t border-blue-700">
             <p>&copy;2025 MediCare+. All rights reserved.</p>
           </div>
         </div>
